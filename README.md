@@ -5,7 +5,7 @@ Rewards for reporting issues are as follows:
 
 - 1 Point for typos, missing texts, faulty links, etc.
 - 2-20 Points for bugs (show that a feature is broken or something does not work as expected)
-- 21-1000 Points for security issues (demonstrate a way to get access to stuff you probably should not see)
+- 21-2000 Points for security issues (demonstrate a way to get access to stuff you probably should not see)
 
 # Reporting an issue
 
