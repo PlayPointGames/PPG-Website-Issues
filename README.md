@@ -11,6 +11,8 @@ Rewards for reporting issues are as follows:
 
 Create an issue by clicking "Issues" on the top left corner of this page. Make the description as short and on the point as possible. Always provide the page URL where the problem happens. You should also provide more information upon request if you wish to collect the possible reward.
 
+![Screenshot](img/Screenshot_3.png)
+
 # Rewards
 
 Note! In order to claim the reward you must have a PPG account. A reward is paid only once per issue (except in cases where the problem re-appears after a fix). The severity is assessed on case by case basis by PPG admins and the reward is based on their sole discretion. We have the right to publish the usernames of reward winners on our website, Discord and social media accounts.
