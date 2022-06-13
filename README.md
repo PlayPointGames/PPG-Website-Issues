@@ -9,7 +9,7 @@ Rewards for reporting issues are as follows:
 
 # Reporting an issue
 
-Make the description as short and on the point as possible. Always provide the page URL where the problem happens. You should also provide more information upon request if you wish to collect the possible reward.
+Create an issue by clicking "Issues" on the top left corner of this page. Make the description as short and on the point as possible. Always provide the page URL where the problem happens. You should also provide more information upon request if you wish to collect the possible reward.
 
 # Rewards
 
